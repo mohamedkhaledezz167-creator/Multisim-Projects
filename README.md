@@ -8,7 +8,7 @@ This repository contains my schematic designs and simulation results for various
 ## 🛠 Featured Designs 
 * **Amplifier Stages:** Multi-stage BJT and MOSFET amplifier characterizations.
 * **Filter Networks:** Active and passive filter implementations with frequency response verification.
-* * **Oscillators:** Using opamps and mosfets to design electronic circuits that generate signals
+* **Oscillators:** Using opamps and mosfets to design electronic circuits that generate signals
 
 ## 📈 Tools Used
 * **NI Multisim:** For schematic capture and SPICE-based simulation.
