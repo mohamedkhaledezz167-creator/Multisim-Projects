@@ -5,10 +5,10 @@ A collection of schematic captures and simulations for various analog circuits, 
 
 This repository contains my schematic designs and simulation results for various analog systems. These projects focus on hardware-level verification and signal integrity analysis.
 
-## 🛠 Featured Designs
-* **Power Electronics:** Linear and switching voltage regulator designs.
+## 🛠 Featured Designsg 
 * **Amplifier Stages:** Multi-stage BJT and MOSFET amplifier characterizations.
 * **Filter Networks:** Active and passive filter implementations with frequency response verification.
+* * **Oscillators:** Using opamps and mosfets to design electronic circuits that generate signals
 
 ## 📈 Tools Used
 * **NI Multisim:** For schematic capture and SPICE-based simulation.
