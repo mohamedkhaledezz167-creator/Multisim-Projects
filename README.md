@@ -5,7 +5,7 @@ A collection of schematic captures and simulations for various analog circuits, 
 
 This repository contains my schematic designs and simulation results for various analog systems. These projects focus on hardware-level verification and signal integrity analysis.
 
-## 🛠 Featured Designsg 
+## 🛠 Featured Designs 
 * **Amplifier Stages:** Multi-stage BJT and MOSFET amplifier characterizations.
 * **Filter Networks:** Active and passive filter implementations with frequency response verification.
 * * **Oscillators:** Using opamps and mosfets to design electronic circuits that generate signals
